@@ -62,4 +62,5 @@ The application connects to a database named `TailorShopManagementSystem`.
 - `*.form`: NetBeans GUI Designer files for the interface.
 
 ---
-*Created for the 3rd Semester Database Course Semester Project.*
+---
+**Note:** This project was created as a part of the **3rd Semester Database Course Semester Project**.
