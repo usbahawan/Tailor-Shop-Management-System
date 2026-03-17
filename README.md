@@ -63,4 +63,3 @@ The application connects to a database named `TailorShopManagementSystem`.
 
 ---
 ---
-**Note:** This project was created as a part of the **3rd Semester Database Course Semester Project**.
